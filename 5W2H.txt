@@ -8,3 +8,4 @@ O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma 
 
 Desenvolver um website para divulgar o aplicativo "Passeio Carioca", destacando suas funcionalidades: mapa geolocalizado, passeios guiados e sistema de gamificação. 
 
+
