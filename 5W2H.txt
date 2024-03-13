@@ -1,6 +1,7 @@
 Resumo do Entendimento do Projeto:
 
-O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma empresa que oferece uma experiência única de turismo no Rio de Janeiro através de um aplicativo. Além de falar sobre a empresa em si, o site tem como objetivo principal divulgar o aplicativo, destacando suas principais funcionalidades: um mapa geolocalizado com pontos históricos, a oferta de passeios guiados, e um sistema de gamificação para engajar os usuários. O público-alvo são turistas de diversos perfis e o tráfego vira majoritariamente de pessoas buscando informações relacionadas (passeios, pontos históricos, etc) através de pesquisas no Google.
+O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma empresa que oferece uma experiência única de turismo no Rio de Janeiro através de um aplicativo. Além de falar sobre a empresa em si, o site tem como objetivo principal divulgar o aplicativo, destacando suas principais funcionalidades: um mapa geolocalizado com pontos históricos, a oferta de passeios guiados, e um sistema de gamificação para engajar os usuários. O público-alvo são turistas de diversos perfis e o tráfego vira majoritariamente de pessoas buscando informações relacionadas (passeios, pontos históricos, etc) através de pesquisas no Google. 
+O website deverá ter diferentes páginas para cada função e conteúdo. Duas referências de páginas de concorrentes dadas pelo cliete são "Rolé Carioca" e "Rio Memórias".
 
 5W2H:
 
@@ -9,5 +10,18 @@ O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma 
 Desenvolver um website para divulgar o aplicativo "Passeio Carioca", destacando suas funcionalidades: mapa geolocalizado, passeios guiados e sistema de gamificação. 
 
 - Why (Por que?)
-Para promover o aplicativo, atrair mais usuários (turistas) e facilitar o acesso às informações e serviços oferecidos pela empresa.
+Para promover o aplicativo, captar mais usuários (turistas) que, captar clientes via  e facilitar o acesso às informações e serviços oferecidos pela empresa.
 
+- Who (Quem?)
+O público-alvo dos clientes são majoritariamente turistas, o que possivelmente cria a necessidade de uma versão em inglês do site.
+
+- When (Quando?)
+Estaremos desenvolvendo o website durante todo o período do semestre. Caso o websitebseja de interesse para a utilização do cliente futuramente, só irá ao ar após a conclusão do desenvolvimento e lançamento do aplicativo.
+
+- Where (Onde?)
+O sistema a princípio será alocado no github pages.
+
+- How (Como?)
+Estaremos utilizando javascript como linguagem de desenvolvimento do website e o github como ferramenta de versificação para o trabalho em grupo.
+
+- How Much (Quanto?)
