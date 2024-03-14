@@ -34,4 +34,4 @@ O usuário irá acessar o sistema em diferentes dispositivos (Desktop, celulares
 O website terá o javascript como linguagem de desenvolvimento do website juntamente com o react.
 
 - How Much (Quanto?)
-Considerando que este é um projeto acadêmico, o custo direto não é aplicável. No entanto, podemos entender isso em termos de pontos na matéria Projeto Front End. Por isso é importante que o grupo entenda com o professor quais são os critérios de avaliação do projeto. 
+Considerando que este é um projeto acadêmico, o custo direto não é aplicável. No entanto, podemos entender isso em termos de pontos na matéria Projeto Front End. Outro ponto importante é o custo de tempo, já que tanto os integrantes deste grupo estarão investindo tempo no desenvolvimento do sistema, quanto o cliente também estará investindo tempo com reuniões, grupos de whatsapp, etc.
