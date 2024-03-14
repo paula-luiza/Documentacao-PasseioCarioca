@@ -1,12 +1,11 @@
 Resumo do Entendimento do Projeto:
 
-O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma empresa que oferece uma experiência única de turismo no Rio de Janeiro através de um aplicativo. Além de falar sobre a empresa em si, o site tem como objetivo principal divulgar o aplicativo, destacando suas principais funcionalidades: um mapa geolocalizado com pontos históricos, a oferta de passeios guiados, e um sistema de gamificação para engajar os usuários. O público-alvo são turistas de diversos perfis e o tráfego vira majoritariamente de pessoas buscando informações relacionadas (passeios, pontos históricos, etc) através de pesquisas no Google. 
+O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma empresa que oferece uma experiência única de turismo no Rio de Janeiro através de um aplicativo. Além de falar sobre a empresa em si, o site tem como objetivo principal divulgar o aplicativo, destacando suas principais funcionalidades: um mapa geolocalizado com pontos históricos, a oferta de passeios guiados, e um sistema de gamificação para engajar os usuários. O público-alvo são turistas de diversos perfis e o tráfego vira majoritariamente de pessoas buscando informações relacionadas (passeios, pontos históricos, etc) através de pesquisas no Google e atraves de bares e restaurantes que terao a possibilidade de mostrar a historia do seu estabelecimento. 
 O website deverá ter diferentes páginas para cada função e conteúdo. Duas referências de páginas de concorrentes dadas pelo cliete são "Rolé Carioca" e "Rio Memórias".
 
 5W2H:
 
 - What (O que?)
-
 Desenvolver um website para divulgar o aplicativo "Passeio Carioca", destacando suas funcionalidades: mapa geolocalizado, passeios guiados e sistema de gamificação. 
 
 - Why (Por que?)
@@ -22,6 +21,7 @@ Estaremos desenvolvendo o website durante todo o período do semestre. Caso o we
 O sistema a princípio será alocado no github pages.
 
 - How (Como?)
-Estaremos utilizando javascript como linguagem de desenvolvimento do website e o github como ferramenta de versificação para o trabalho em grupo.
+Estaremos utilizando javascript como linguagem de desenvolvimento do website juntamente com o react e o github como ferramenta de versificação para o trabalho em grupo.
 
 - How Much (Quanto?)
+Considerando que este é um projeto acadêmico, o custo direto não é aplicável. No entanto, podemos entender isso em termos de pontos na matéria Projeto Front End. Por isso é importante que o grupo entenda com o professor quais são os critérios de avaliação do projeto. 
