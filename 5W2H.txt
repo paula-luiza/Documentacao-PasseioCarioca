@@ -1,7 +1,11 @@
 Resumo do Entendimento do Projeto:
+O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma empresa que oferece uma experiência única de turismo no Rio de Janeiro através de um aplicativo. 
+O propósito do website, além do de falar sobre a empresa em si, é principalmente o de divulgar o novo aplicativo da empresa, destacando suas principais funcionalidades: um mapa geolocalizado com pontos históricos, a oferta de passeios guiados, e um sistema de gamificação para engajar os usuários. 
 
-O projeto consiste no desenvolvimento de um website para "Passeio Carioca", uma empresa que oferece uma experiência única de turismo no Rio de Janeiro através de um aplicativo. Além de falar sobre a empresa em si, o site tem como objetivo principal divulgar o aplicativo, destacando suas principais funcionalidades: um mapa geolocalizado com pontos históricos, a oferta de passeios guiados, e um sistema de gamificação para engajar os usuários. O público-alvo são turistas de diversos perfis e o tráfego virá majoritariamente de pessoas buscando informações relacionadas (passeios, pontos históricos, etc) através de pesquisas no Google e atraves de bares e restaurantes que terao a possibilidade de mostrar a historia do seu estabelecimento. 
+Outras informações relevantes:
+O público-alvo são turistas de diversos perfis e o tráfego virá majoritariamente de pessoas buscando informações relacionadas (passeios, pontos históricos, etc) através de pesquisas no Google e atraves de bares e restaurantes que terao a possibilidade de mostrar a historia do seu estabelecimento. 
 O website deverá ter diferentes páginas para cada função e conteúdo. Duas referências de páginas de concorrentes dadas pelo cliete são "Rolé Carioca" e "Rio Memórias".
+
 
 5W2H:
 
