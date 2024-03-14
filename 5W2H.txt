@@ -12,7 +12,7 @@ Desenvolver um website para divulgar o aplicativo "Passeio Carioca", destacando 
 Para promover o aplicativo, captar mais usuários (turistas) e facilitar o acesso às informações e serviços oferecidos pela empresa.
 
 - Who (Quem?)
-O público-alvo dos clientes são majoritariamente turistas, o que possivelmente cria a necessidade de uma versão em inglês do site.
+O público-alvo dos clientes são majoritariamente turistas.
 
 - When (Quando?)
 Estaremos desenvolvendo o website durante todo o período do semestre. Caso o website seja de interesse para a utilização do cliente futuramente, só irá ao ar após a conclusão do desenvolvimento e lançamento do aplicativo.
