@@ -26,6 +26,8 @@ O website será desenvolvido durante todo o período do semestre, seguindo o cro
 - Where (Onde?)
 O sistema a princípio será alocado no github pages.
 
+O usuário irá acessar o sistema em diferentes dispositivos (Desktop, celulares, tablets, etc.).
+
 - How (Como?)
 Estaremos utilizando javascript como linguagem de desenvolvimento do website juntamente com o react e o github como ferramenta de versificação para o trabalho em grupo.
 
