@@ -19,7 +19,9 @@ Para promover o aplicativo, captar mais usuários (turistas) e facilitar o acess
 O público-alvo dos clientes são majoritariamente turistas.
 
 - When (Quando?)
-Estaremos desenvolvendo o website durante todo o período do semestre. Caso o website seja de interesse para a utilização do cliente futuramente, só irá ao ar após a conclusão do desenvolvimento e lançamento do aplicativo.
+O usuário irá acessar o site majoritariamente quando estiver buscando por passeios guiados ou pontos históricos do Rio de Janeiro em sites de busca.
+
+O website será desenvolvido durante todo o período do semestre, seguindo o cronograma das aulas. 
 
 - Where (Onde?)
 O sistema a princípio será alocado no github pages.
