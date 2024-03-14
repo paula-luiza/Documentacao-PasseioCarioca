@@ -10,7 +10,7 @@ O website deverá ter diferentes páginas para cada função e conteúdo. Duas r
 5W2H:
 
 - What (O que?)
-Desenvolver um website para divulgar o aplicativo "Passeio Carioca", destacando suas funcionalidades: mapa geolocalizado, passeios guiados e sistema de gamificação. 
+As principais funcionalidades que o website terá serão um mapa geolocalizado com pontos históricos, oferta de passeios guiados e a divulgação do sistema de gamificação. 
 
 - Why (Por que?)
 Para promover o aplicativo, captar mais usuários (turistas) e facilitar o acesso às informações e serviços oferecidos pela empresa.
