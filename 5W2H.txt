@@ -29,7 +29,7 @@ O sistema a princípio será alocado no github pages.
 O usuário irá acessar o sistema em diferentes dispositivos (Desktop, celulares, tablets, etc.).
 
 - How (Como?)
-Estaremos utilizando javascript como linguagem de desenvolvimento do website juntamente com o react e o github como ferramenta de versificação para o trabalho em grupo.
+O website terá o javascript como linguagem de desenvolvimento do website juntamente com o react.
 
 - How Much (Quanto?)
 Considerando que este é um projeto acadêmico, o custo direto não é aplicável. No entanto, podemos entender isso em termos de pontos na matéria Projeto Front End. Por isso é importante que o grupo entenda com o professor quais são os critérios de avaliação do projeto. 
