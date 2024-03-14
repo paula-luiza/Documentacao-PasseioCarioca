@@ -6,6 +6,8 @@ Outras informações relevantes:
 O público-alvo são turistas de diversos perfis e o tráfego virá majoritariamente de pessoas buscando informações relacionadas (passeios, pontos históricos, etc) através de pesquisas no Google e atraves de bares e restaurantes que terao a possibilidade de mostrar a historia do seu estabelecimento. 
 O website deverá ter diferentes páginas para cada função e conteúdo. Duas referências de páginas de concorrentes dadas pelo cliete são "Rolé Carioca" e "Rio Memórias".
 
+Por conta do site ser feito para turistas, é muito provável que queiram um site que funcione em inglês também.
+
 
 5W2H:
 
