@@ -16,7 +16,7 @@ As principais funcionalidades que o website terá serão um mapa geolocalizado c
 Para promover o aplicativo, captar mais usuários (turistas) e facilitar o acesso às informações e serviços oferecidos pela empresa.
 
 - Who (Quem?)
-O público-alvo dos clientes são majoritariamente turistas.
+O público-alvo dos clientes são majoritariamente turistas. Mais especificamente, quem vai acessar o site será, majoritariamente, turistas pesquisando sobre passeios guiados e pontos históricos do Rio de Janeiro.
 
 - When (Quando?)
 O usuário irá acessar o site majoritariamente quando estiver buscando por passeios guiados ou pontos históricos do Rio de Janeiro em sites de busca.
