@@ -15,7 +15,7 @@ Para promover o aplicativo, captar mais usuários (turistas) que, captar cliente
 O público-alvo dos clientes são majoritariamente turistas, o que possivelmente cria a necessidade de uma versão em inglês do site.
 
 - When (Quando?)
-Estaremos desenvolvendo o website durante todo o período do semestre. Caso o websitebseja de interesse para a utilização do cliente futuramente, só irá ao ar após a conclusão do desenvolvimento e lançamento do aplicativo.
+Estaremos desenvolvendo o website durante todo o período do semestre. Caso o website seja de interesse para a utilização do cliente futuramente, só irá ao ar após a conclusão do desenvolvimento e lançamento do aplicativo.
 
 - Where (Onde?)
 O sistema a princípio será alocado no github pages.
