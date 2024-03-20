@@ -36,10 +36,16 @@
   R03-2. Quando o usuário pressionar na tecla enter na barra de pesquisa, uma página com os resultados internos do site deve ser exibida   
   R04-1. Uma área destinada ao rodapé devera ser exibida na página  
   R04-2. O rodapé deve ser um retângulo constrito ao inferior da página   
-  R04-3. O rodapé deve conter x links para contato e??????????  
+  R04-3. O rodapé deve conter links para as redes sociais da empresa e informações de contato, como telefone e e-mail. 
   R04-4. O rodapé deve estar sempre visível, em todas as páginas do website  
   R05-1. O sistema deve possui um botão que ao ser clicado, redireciona o usuário para a página do aplicativo na app store  
   R05-2. O sistema deve possui um botão que ao ser clicado, redireciona o usuário para a página do aplicativo na play store  
   R05-3. Os botões de download devem ser exibidos na página inicial
-  R05-4. Os botões de download devem explicitar que são de download?????
+  R05-4. Os botões de download devem ter uma aparência distintiva, clara e indicar claramente que são para download do aplicativo.
+  R06-1: O sistema deve possuir botões que redirecionam para as redes sociais da empresa.
+  R06-2. O botão de mudança de idioma deve estar facilmente acessível, com texto indicativo da língua atual e da língua para a qual será mudado(ingles)
+  R06-3. As traducoes devem estar corretas
+  R07-1. Os botões de redes sociais devem estar presentes no rodapé e devem ter ícones reconhecíveis das respectivas redes.
+  R07-2: O botão das redes sociais devem estar presentes em páginas de conteúdo relevante.
+  
     
