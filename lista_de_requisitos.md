@@ -64,7 +64,7 @@ R06-1: O sistema deve possuir botões que redirecionam para as redes sociais da 
 
 R06-2. O botão de mudança de idioma deve estar facilmente acessível, com texto indicativo da língua atual e da língua para a qual será mudado(ingles) 
 
-R06-3. As traducoes devem estar corretas 
+R06-3. As traduções devem ser feitas com o uso de ferramentas de tradução como o Google Translate ou Microsoft Translator
 
 R07-1. Os botões de redes sociais devem estar presentes no rodapé e devem ter ícones reconhecíveis das respectivas redes. 
 
@@ -72,7 +72,7 @@ R07-2: O botão das redes sociais devem estar presentes em páginas de conteúdo
 
 R08-1: O sistema deve acessar a api do Google Maps e mostrar os pontos de interesse previamente escolhidos pela empresa no mapa interativo.
 
-R09-1: O sistema deve mostrar como é o vizual do aplicatico, por meio das cores iguais...
+R09-1: O sistema deve mostrar como é o visual do aplicatico, por meio das cores iguais...
 
 R10-1: Deve haver uma página com textos explicativos sobre a empresa, apresentando sua história, missão, visão, valores, equipe e sede.
 
