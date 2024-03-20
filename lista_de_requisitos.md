@@ -69,3 +69,5 @@ R06-3. As traducoes devem estar corretas
 R07-1. Os botões de redes sociais devem estar presentes no rodapé e devem ter ícones reconhecíveis das respectivas redes. 
 
 R07-2: O botão das redes sociais devem estar presentes em páginas de conteúdo relevante.
+
+R08: O sistema deve acessar a api do Google Maps e mostrar os pontos de interesse previamente escolhidos pela empresa no mapa interativo.
