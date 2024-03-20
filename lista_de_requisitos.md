@@ -71,3 +71,17 @@ R07-1. Os botões de redes sociais devem estar presentes no rodapé e devem ter 
 R07-2: O botão das redes sociais devem estar presentes em páginas de conteúdo relevante.
 
 R08-1: O sistema deve acessar a api do Google Maps e mostrar os pontos de interesse previamente escolhidos pela empresa no mapa interativo.
+
+R09-1: O sistema deve mostrar como é o vizual do aplicatico, por meio das cores iguais...
+
+R10-1: Deve haver uma página com textos explicativos sobre a empresa, apresentando sua história, missão, visão, valores, equipe e sede.
+
+R10-2: Deve conter uma seção de "Nossa Equipe" com fotos e perfis dos membros da equipe.
+
+R11-1: Deve haver uma página com textos explicativos sobre os passeios guiados, listando os diferentes roteiros possíveis, com imagens dos locais, endereços e horários.
+
+R11-2: A página de passeios guiados deve ser informativa e inspiradora, despertando o interesse dos visitantes em participar dos passeios.
+
+R12-1: Deve haver uma página explicando o sistema de gamificação, listando as possíveis medalhas a serem conquistadas com ícones e/ou imagens.
+
+R12-2: Deve incluir exemplos de como os usuários podem ganhar medalhas e avançar no sistema de gamificação.
