@@ -62,7 +62,7 @@ R05-4. Os botões de download devem ter uma aparência distintiva, clara e indic
 
 R06-1: O sistema deve possuir botões que redirecionam para as redes sociais da empresa. 
 
-R06-2. O botão de mudança de idioma deve estar facilmente acessível, com texto indicativo da língua atual e da língua para a qual será mudado(ingles) 
+R06-2. O botão de mudança de idioma deve estar facilmente acessível, com texto indicativo da língua atual e da língua para a qual será mudado (inglês). 
 
 R06-3. As traduções devem ser feitas com o uso de ferramentas de tradução como o Google Translate ou Microsoft Translator
 
