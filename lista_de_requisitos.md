@@ -76,7 +76,7 @@ R09-1: O sistema deve mostrar como é o visual do aplicatico, por meio das cores
 
 R10-1: Deve haver uma página com textos explicativos sobre a empresa, apresentando sua história, missão, visão, valores, equipe e sede.
 
-R10-2: Deve conter uma seção de "Nossa Equipe" com fotos e perfis dos membros da equipe.
+R10-2: Deve conter uma seção de "Nossa Equipe" Com fotos e perfis dos membros da equipe.
 
 R11-1: Deve haver uma página com textos explicativos sobre os passeios guiados, listando os diferentes roteiros possíveis, com imagens dos locais, endereços e horários.
 
