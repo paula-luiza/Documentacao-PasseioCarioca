@@ -1,6 +1,9 @@
 ## Ator Principal
 Turista
 
+## Descrição  
+Este caso de uso descreve o processo pelo qual um turista navega pelo site para ter mais informacoes passeios e para ver o mapa com os pontos turisticos.
+
 ## Pré-condições
 O turista está na página inicial do website
 
