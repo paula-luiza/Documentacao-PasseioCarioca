@@ -4,7 +4,7 @@
 Este caso de uso descreve o processo pelo qual um anunciante se inscreve para divulgar seu negócio no site do "Passeio Carioca".
 
 ## Pré-condições
-- O anunciante deve ter um negócio relevante para turistas ou moradores no Rio de Janeiro.
+- O anunciante deve ter um negócio físico relevante para turistas ou moradores no Rio de Janeiro, com uma história compatível com os locais marcados no app do "Passeio Carioca".
 
 ## Pós-condições
 - O formulário de inscrição do anunciante é enviado com sucesso para a equipe do "Passeio Carioca".
