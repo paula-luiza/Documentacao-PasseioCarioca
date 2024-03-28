@@ -1,6 +1,6 @@
 ## Casos de uso
-[Turista](CasoDeUso/Acessaroapp.md)  
-[Turista](CasoDeUso/Procurarpontointeresse.md)  
-[Turista](CasoDeUso/Procurarpasseo.md)  
-[Guia](CasoDeUso/Inscreverguia.md)  
-[Anunciantes](CasoDeUso/Inscreveranunciante.md)  
+[Turista querendo acessar o app](CasoDeUso/Acessaroapp.md)  
+[Turista procurando pontos de interesse](CasoDeUso/Procurarpontointeresse.md)  
+[Turista procurando passeios turisticos](CasoDeUso/Procurarpasseio.md)  
+[Inscrição do Guia](CasoDeUso/Inscreverguia.md)  
+[Inscrição dos Anunciantes](CasoDeUso/Inscreveranunciante.md)  
