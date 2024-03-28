@@ -19,7 +19,7 @@ O turista escolhe acessar a seção do mapa interativo
 O sistema exibe o mapa com diferentes pontos de interesse demarcados
 O turista pode dar zoom em uma área de seu interesse e explorar os arredores
 O turista pode clicar em diferentes pins de seu interesse e descobrir mais sobre a história de diferentes pontos turísticos
-O turista decide baixar o app e pode clicar no botão para isto
+O turista decide baixar o app e pode clicar no botao para isto
 O sistema se redicionará para a app store
 
 ## Pós-condições
