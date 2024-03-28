@@ -1,4 +1,6 @@
 ## Casos de uso
-[Turista](CasodeUso_Turista2.md)  
-[Guia](CasoDeUso_Guia.md)  
-[Anunciantes](CasoDeUso_Anunciante.md)  
+[Turista](CasoDeUso/Acessaroapp.md)  
+[Turista](CasoDeUso/Procurarpontointeresse.md)  
+[Turista](CasoDeUso/Procurarpasseo.md)  
+[Guia](CasoDeUso/Inscreverguia.md)  
+[Anunciantes](CasoDeUso/Inscreveranunciante.md)  
