@@ -5,7 +5,7 @@ O 5W2H é uma ferramenta de gestão utilizada para planejar e definir ações de
 A lista de requisitos é um documento que descreve as funcionalidades, características e restrições que um sistema, produto ou serviço deve possuir para atender às necessidades do cliente ou usuário final. Ela é uma parte fundamental do processo de desenvolvimento de software e é utilizada para garantir que todos os envolvidos no projeto tenham um entendimento claro e comum sobre o que será desenvolvido.  
 [Lista](lista_de_requisitos.md)  
 ## Casos de uso  
-Os casos de uso são uma técnica utilizada para capturar os requisitos funcionais de um sistema, descrevendo como os usuários interagem com o sistema em diferentes situações. Eles descrevem as interações entre os usuários e o sistema, mostrando como o sistema responde a diferentes entradas do usuário. Os casos de uso são frequentemente representados por meio de diagramas de casos de uso, que mostram os atores (usuários ou sistemas externos) e os diferentes casos de uso do sistema.
+Os casos de uso são uma técnica utilizada para capturar os requisitos funcionais de um sistema, descrevendo como os usuários interagem com o sistema em diferentes situações. Eles descrevem as interações entre os usuários e o sistema, mostrando como o sistema responde a diferentes entradas do usuário. Os casos de uso são frequentemente representados por meio de diagramas de casos de uso, que mostram os atores (usuários ou sistemas externos) e os diferentes casos de uso do sistema.  
 [Turista querendo acessar o app](CasoDeUso/Acessaroapp.md)  
 [Turista procurando pontos de interesse](CasoDeUso/Procurarpontosinteresse.md)  
 [Turista procurando passeios turisticos](CasoDeUso/Procurarpasseio.md)  
