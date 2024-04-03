@@ -15,12 +15,12 @@ Falar sobre as 3 entregas que tivemos, as apresentações semanais, como nos org
 Somos um grupo dedicado da disciplina de Projeto Front-end, com uma equipe diversificada, composta por:  
 Caio Azevedo  
  * Analise e Desenvolvimento de Sistemas  
-Ewerton
- *Ciencia de Dados  
-João Gabriel
- *Ciencia de Dados  
-Miguel
- *Ciencia de Dados  
-Paula
- *Engenharia de Software  
+Ewerton  
+ * Ciencia de Dados  
+João Gabriel  
+ * Ciencia de Dados  
+Miguel  
+ * Ciencia de Dados  
+Paula  
+ * Engenharia de Software  
 
