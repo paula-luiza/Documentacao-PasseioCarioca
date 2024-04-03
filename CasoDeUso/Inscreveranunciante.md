@@ -17,6 +17,7 @@ Este caso de uso descreve o processo pelo qual um anunciante se inscreve para di
 2. Clica no botão "Saiba Mais" ou "Inscreva-se" para iniciar o processo de inscrição.
 3. O anunciante preenche um formulário detalhado com informações sobre o negócio, o tipo de anúncio que deseja fazer, e informações de contato.
 4. O formulário exibe campos como:
+**TO-DO: Confirmar com o cliente os campos específicos necessários
    - Nome
    - Email
    - Telefone
