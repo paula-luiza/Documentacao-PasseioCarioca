@@ -15,6 +15,6 @@ O turista esta na pagina de explicacao da gameficacao
 3- O turista pode clicar em saiba mais em alguma medalha para ter mais informacoes sobre cada recompensa(como conseguir...)  
 4- O turista pode clicar para baixar o app e ter acesso total as essas medalhas  
 
-##Pos-condicao:  
+## Pos-condicao:  
 O turista é redirecionado para a app store ou play store para instalar o app
 
