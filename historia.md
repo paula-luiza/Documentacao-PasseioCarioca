@@ -6,4 +6,21 @@ Nos reunimos com o cliente durante a aula de xx/03, quando ele nos descreveu mai
   
 Após essa reunião inicial, nosso contato com o cliente continuou por um grupo de Whatsapp compartilhado com o cliente, o professor e o resto da turma. O cliente nos deu abertura para questionamentos e nos enviou diversos documentos para nos ajudar a entender melhor o que ele quer.
 
-Falar sobre as 3 entregas que tivemos, as apresentações semanais, como nos organizamos e como levantamos os requisitos.
+Falar sobre as 3 entregas que tivemos, as apresentações semanais, como nos organizamos e como levantamos os requisitos.  
+
+## O que temos  
+5w2h, lista de requisitos, caso de uso...  
+
+## Equipe  
+Somos um grupo dedicado da disciplina de Projeto Front-end, com uma equipe diversificada, composta por:  
+Caio Azevedo  
+ * Analise e Desenvolvimento de Sistemas  
+Ewerton
+ *Ciencia de Dados  
+João Gabriel
+ *Ciencia de Dados  
+Miguel
+ *Ciencia de Dados  
+Paula
+ *Engenharia de Software  
+
