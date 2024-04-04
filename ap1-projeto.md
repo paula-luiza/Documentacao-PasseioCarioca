@@ -21,5 +21,17 @@ Na semana 5, apresentamos nossos casos de uso. A partir desta semana, começamos
 
 
 ## A Equipe
-Temos uma equipe diversa, com integrantes que cursam Ciência de Dados, Engenharia de Software e ADS.  
-Achamos desafiador entender quais seriam os casos de uso, quais são os requisitos, e diferenciar o que sabemos e o que assumimos.  
+Somos um grupo dedicado da disciplina de Projeto Front-end, com uma equipe diversificada, composta por:  
+
+* Caio Azevedo  
+  Analise e Desenvolvimento de Sistemas  
+* Ewerton  
+  Ciencia de Dados  
+* João Gabriel  
+  Ciencia de Dados  
+* Miguel  
+ Ciencia de Dados  
+* Paula  
+ Engenharia de Software   
+
+Achamos desafiador entender quais seriam os casos de uso, quais são os requisitos, e diferenciar o que sabemos e o que assumimos. 
