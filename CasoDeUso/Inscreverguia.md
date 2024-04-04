@@ -14,18 +14,26 @@ O guia turístico está na página do website dedicada aos guias.
 
 ## Fluxo principal:
 
-1- O guia lê o título e o texto informativo e se interessa em virar parceiro.
+1. O guia lê o título e o texto informativo e se interessa em virar parceiro.
 
-2- O Guia clica no botão "Registrar como Guia".
+2. O Guia clica no botão "Registrar como Guia".
 
-3- Isso o levará para um formulário de inscrição.
-**TO-DO: Inserir as informações específicas pedidas pelo formulário. Aguardando resposta do dono.
+3. Isso o levará para um formulário de inscrição.
 
-4- O guia turístico preenche o formulário.
+4. O formulário exibe campos como:
+   **TO-DO: Inserir as informações específicas pedidas pelo formulário. Aguardando resposta do dono.
 
-5- Após preencher o formulário, o guia envia sua inscrição para análise.
+   - Nome
+   - Email
+   - Telefone
+   - Endereço
+   - Sobre Você
 
-6- O guia turístico recebe uma mensagem automática no site (e possivelmente por e-mail) confirmando que sua inscrição foi recebida.
+5. 4. O guia turístico preenche o formulário.  
+
+6. Após preencher o formulário, o guia envia sua inscrição para análise.
+
+7. O guia turístico recebe uma mensagem automática no site (e possivelmente por e-mail) confirmando que sua inscrição foi recebida.
 
 ## Pós-condições:
 

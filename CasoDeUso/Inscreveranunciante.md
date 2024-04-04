@@ -16,5 +16,12 @@ Este caso de uso descreve o processo pelo qual um anunciante se inscreve para di
 1. O anunciante lê sobre os benefícios, tipos de anúncios disponíveis e como o processo de inscrição funciona.
 2. Clica no botão "Saiba Mais" ou "Inscreva-se" para iniciar o processo de inscrição.
 3. O anunciante preenche um formulário detalhado com informações sobre o negócio, o tipo de anúncio que deseja fazer, e informações de contato.
-4. Após preencher o formulário, o anunciante o envia para análise da equipe do "Passeio Carioca".
-5. O anunciante recebe uma mensagem automática no site (e possivelmente por e-mail) confirmando que sua inscrição foi recebida.
+4. O formulário exibe campos como:  
+**TO-DO: Confirmar com o cliente os campos específicos necessários  
+   - Nome
+   - Email
+   - Telefone
+   - Endereço
+   - Sobre Você
+5. Após preencher o formulário, o anunciante o envia para análise da equipe do "Passeio Carioca".
+6. O anunciante recebe uma mensagem automática no site (e possivelmente por e-mail) confirmando que sua inscrição foi recebida.

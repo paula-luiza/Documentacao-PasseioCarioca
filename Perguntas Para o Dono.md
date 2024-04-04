@@ -3,4 +3,7 @@
 - A venda dos passeios guiados somente pelo app?
 - Menu com fundo visível ou só o texto dos botões aparecendo sobre uma foto?
 - Tem um esquema de cores que podemos usar? Logo também.
-- Ele quer que no website precisa exibir o mapa exatamento como o do app(com tds as informacoes e tds os pins)?
+- O website precisa exibir o mapa exatamento como o do app(com tds as informacoes e tds os pins)?
+- Quais são as parcerias/patrocínios, e onde no site devemos dar os créditos?
+- O site deve ter outro idioma?
+- Que informações sobre os passeios devem ser exibidas?
