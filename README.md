@@ -21,4 +21,5 @@ Os casos de uso são uma técnica utilizada para capturar os requisitos funciona
 [Link para PDF no repositório](/PrototivoDeTelas-EVE-ProjetoFrontEnd.pdf)
 
 ## Apresentação AP1
-[Slides de Apresentação na AP1]()
+[Slides de Apresentação na AP1 em PDF](Grupo Eve - Apresentação Passeio Carioca.pdf)
+[Slides de Apresentação na AP1 no Canva]([Grupo Eve - Apresentação Passeio Carioca.pdf](https://www.canva.com/design/DAGBSmj8Mco/GLssq8Mo0V6qq_tpKB2TjA/view?utm_content=DAGBSmj8Mco&utm_campaign=designshare&utm_medium=link&utm_source=editor))
