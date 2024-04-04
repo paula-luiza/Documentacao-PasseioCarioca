@@ -15,3 +15,6 @@ Os casos de uso são uma técnica utilizada para capturar os requisitos funciona
 [Turista querendo saber sobre a gameficacao presente no app](CasoDeUso/AcessarGameficacao.md)  
 [Inscrição do Guia](CasoDeUso/Inscreverguia.md)  
 [Inscrição dos Anunciantes](CasoDeUso/Inscreveranunciante.md)  
+
+## Protótipo do Sistema
+Link para Apresentação Figma https://www.figma.com/proto/mj57BamMrhvR4j4h91kewW/FRONT-END_EVE-Project?type=design&node-id=1-3&t=FAaDWXNYNeqp876O-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design
