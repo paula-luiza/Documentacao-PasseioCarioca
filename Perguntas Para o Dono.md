@@ -1,9 +1,0 @@
-- O guia de turismo será direcionado para o app para fazer o cadastro ou isso se dará por meio de um formulário?
-- O que haverá no formulário de inscrição tanto do guia quanto do anunciante?
-- A venda dos passeios guiados somente pelo app?
-- Menu com fundo visível ou só o texto dos botões aparecendo sobre uma foto?
-- Tem um esquema de cores que podemos usar? Logo também.
-- O website precisa exibir o mapa exatamento como o do app(com tds as informacoes e tds os pins)?
-- Quais são as parcerias/patrocínios, e onde no site devemos dar os créditos?
-- O site deve ter outro idioma?
-- Que informações sobre os passeios devem ser exibidas?

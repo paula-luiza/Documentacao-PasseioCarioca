@@ -1,0 +1,12 @@
+- Como sera o cadastro do guia de turismo?
+- O que haverá no formulário de inscrição tanto do guia quanto do anunciante?
+- A venda dos passeios guiados sera feito somente pelo app?
+- O website precisa exibir o mapa exatamente como o do app(com todas as informacoes e todos os pins)?
+- Quais são as parcerias/patrocínios, e onde no site devemos dar os créditos?
+- O site deve ter outro idioma?
+- Que informações sobre os passeios devem ser exibidas?
+- Voce teria um repositorio(pasta) com cores(usadas no app), icones usado(para plano bronze, prata, ouro e diamante)?
+- Quais seriam as redes sociais usadas?
+- Quais textos voces teriam para a divulgacao do app?
+- Quais sao o Objetivos da Passeio Carioca? E quais sao seus ideais?
+- Quais sao os termos de uso e privacidade?
