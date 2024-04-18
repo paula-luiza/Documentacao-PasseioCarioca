@@ -9,3 +9,4 @@
 - Quais textos voces teriam para a divulgacao do app?
 - Como podemos apresentar a equipe "Quem Somos" da Passeio Carioca?
 - Quais sao os termos de uso e privacidade?
+- Você teria um documento com as coordenadas dos pontos de interesse no mapa do aplicativo?
