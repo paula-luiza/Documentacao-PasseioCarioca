@@ -15,3 +15,11 @@ Os casos de uso são uma técnica utilizada para capturar os requisitos funciona
 [Turista querendo saber sobre a gameficacao presente no app](CasoDeUso/AcessarGameficacao.md)  
 [Inscrição do Guia](CasoDeUso/Inscreverguia.md)  
 [Inscrição dos Anunciantes](CasoDeUso/Inscreveranunciante.md)  
+
+## Protótipo do Sistema
+[Link para Apresentação Figma](https://www.figma.com/proto/mj57BamMrhvR4j4h91kewW/FRONT-END_EVE-Project?type=design&node-id=1-3&t=FAaDWXNYNeqp876O-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design)  
+[Link para PDF no repositório](/PrototivoDeTelas-EVE-ProjetoFrontEnd.pdf)
+
+## Apresentação AP1
+[Slides de Apresentação na AP1 em PDF](Grupo%20Eve%20-%20Apresentação%20Passeio%20Carioca.pdf)  
+[Slides de Apresentação na AP1 no Canva](https://www.canva.com/design/DAGBSmj8Mco/GLssq8Mo0V6qq_tpKB2TjA/view?utm_content=DAGBSmj8Mco&utm_campaign=designshare&utm_medium=link&utm_source=editor)
