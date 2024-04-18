@@ -8,5 +8,5 @@
 - Voce teria um repositorio(pasta) com cores(usadas no app), icones usado(para plano bronze, prata, ouro e diamante)?
 - Quais seriam as redes sociais usadas?
 - Quais textos voces teriam para a divulgacao do app?
-- Quais sao o Objetivos da Passeio Carioca? E quais sao seus ideais?
+- Quais sao o Objetivos da Passeio Carioca? E quais sao os ideais?
 - Quais sao os termos de uso e privacidade?
